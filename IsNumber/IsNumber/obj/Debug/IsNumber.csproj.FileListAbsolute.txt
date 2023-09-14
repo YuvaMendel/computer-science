@@ -1,0 +1,8 @@
+D:\Grade11\Data_Structures\IsNumber\IsNumber\bin\Debug\IsNumber.exe.config
+D:\Grade11\Data_Structures\IsNumber\IsNumber\bin\Debug\IsNumber.exe
+D:\Grade11\Data_Structures\IsNumber\IsNumber\bin\Debug\IsNumber.pdb
+D:\Grade11\Data_Structures\IsNumber\IsNumber\obj\Debug\IsNumber.csproj.AssemblyReference.cache
+D:\Grade11\Data_Structures\IsNumber\IsNumber\obj\Debug\IsNumber.csproj.SuggestedBindingRedirects.cache
+D:\Grade11\Data_Structures\IsNumber\IsNumber\obj\Debug\IsNumber.csproj.CoreCompileInputs.cache
+D:\Grade11\Data_Structures\IsNumber\IsNumber\obj\Debug\IsNumber.exe
+D:\Grade11\Data_Structures\IsNumber\IsNumber\obj\Debug\IsNumber.pdb
