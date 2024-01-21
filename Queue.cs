@@ -46,7 +46,7 @@
         public override string ToString()
         {
             Node<T> iter = first;
-            string text = '';
+            string text = "";
             while (iter != null)
             {
                 text += iter.GetValue().ToString();
