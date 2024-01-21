@@ -13,12 +13,12 @@
 
         public bool IsEmpty()
         {
-            return last==null;
+            return first==null;
         }
 
         public void Insert(T x)
         {
-            if (IsEmpty())
+            if (first==null)
             {
                 last = new Node<T>(x);
                 first = last;
